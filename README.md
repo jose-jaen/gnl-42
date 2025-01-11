@@ -18,7 +18,11 @@ Read the `man` pages carefully for every allowed function and understand their e
 
 Sometimes the manual can be unclear, especially regarding null inputs or out-of-range values. In these cases, feel free to check out sites like Stack Overflow or consult AI tools! Just make sure you're not blindly copying and pasting.
 
-### 2. Test before pushing!
+### 2. Useful guides
+
+One particular guide that really helped me through this project was [John's blog](https://cr0w.gitbook.io/j0xhn/42-school/get-next-line)
+
+### 3. Test before pushing!
 
 Don't risk losing your precious evaluation points! Some dedicated students have built useful testers that cover most of the edge cases that Moulinette might throw at you. I personally used [francinette](https://github.com/xicodomingues/francinette).
 
